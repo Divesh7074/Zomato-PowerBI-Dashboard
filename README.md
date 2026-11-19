@@ -1,3 +1,4 @@
+
 **Project Overview**
 
 This project focuses on analyzing Zomato restaurant data using Microsoft Power BI. The dashboard provides insights into restaurant distribution, customer ratings, cuisines, pricing, online delivery, and city-wise restaurant performance.
