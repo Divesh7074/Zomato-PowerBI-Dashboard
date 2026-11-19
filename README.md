@@ -1,10 +1,10 @@
-📌 Project Overview
+**Project Overview**
 
 This project focuses on analyzing Zomato restaurant data using Microsoft Power BI. The dashboard provides insights into restaurant distribution, customer ratings, cuisines, pricing, online delivery, and city-wise restaurant performance.
 
 The objective is to transform raw restaurant data into meaningful insights through interactive visualizations.
 
-🎯 Project Objectives
+**Project Objectives**
 
 Analyze the total number of restaurants.
 
@@ -22,7 +22,7 @@ Analyze average cost for two people.
 
 Explore geographical restaurant distribution.
 
-🛠️ Tools & Technologies
+**Tools & Technologies**
 
 Power BI Desktop – Dashboard development and visualization.
 
@@ -32,7 +32,7 @@ DAX – Calculations and measures.
 
 Microsoft Excel / CSV – Dataset handling.
 
-📊 Dashboard Features
+**Dashboard Features**
 
 1. Key Performance Indicators (KPIs)
 
@@ -70,7 +70,7 @@ Restaurants not offering online delivery
 
 Online delivery availability comparison
 
-📈 Key Insights
+**Key Insights**
 
 The dashboard helps users:
 
